@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# E-commerce full responsive website using React.js
+- It is a static website but in future i will be fetch data from server
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Cover](https://user-images.githubusercontent.com/112485199/222883912-14b7b6ec-8c6b-4ff0-821d-bb715fb098a4.png)
+
+
 
 ## Available Scripts
 
